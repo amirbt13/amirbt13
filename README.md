@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirbt13
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Typescript / Tailwind / MUI
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me via email : amirbasirati13@gmail.com
 - other Projects will be pushed soon 
 
